@@ -24,7 +24,7 @@ Currently pursuing an **MSc in Machine Learning & Data Science** at Uppsala Univ
 | :--- | :--- | :--- |
 | **[AIOps Log Predictor](https://github.com/Thant-Zin-Bo/AIOps-Log-Predictor)** | 🏦 **Reliability / SRE** | `Python` `Scikit-Learn` `DistilBERT` `Zabbix` |
 | **[Uppsala Ingredient Analyzer](https://github.com/Thant-Zin-Bo/Uppsala-Ingredient-Analyzer)** | 🔬 **Academic / NLP** | `SentenceTransformers` `FAISS` `Tkinter` |
-| **[Bio Data ETL](https://github.com/Thant-Zin-Bo/AIOps-Log-Predictor)** | ⚙️ **Data Engineering** | `Pandas` `APIs` `Docker` `Automation` |
+| **[Bio Data ETL](https://github.com/Thant-Zin-Bo/Bio-Data-ETL-Pipeline)** | ⚙️ **Data Engineering** | `Pandas` `APIs` `Docker` `Automation` |
 
 ---
 ### 🔭 Current Focus 
