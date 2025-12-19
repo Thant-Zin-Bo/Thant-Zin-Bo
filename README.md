@@ -28,4 +28,4 @@ Currently pursuing an **MSc in Machine Learning & Data Science** at Uppsala Univ
 
 ---
 ### 🔭 Current Focus 
-I am currently researching how semi-supervise **Graph Neural Networks** can be used to labelling home  network traffic  
+I am currently researching how semi-supervise **Graph Neural Networks** can be used to labelling home  network traffic .(https://github.com/Thant-Zin-Bo/Graph-Network-traffic-analyzer)
